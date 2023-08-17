@@ -12,7 +12,9 @@
 			Chili con carne er en smakfull meksikansk rett med kjøttdeig, bønner, chili og krydder. 
 			Serveres med ris eller brød, og kan toppes med rømme og ost. En populær favoritt globalt.
 		</p>
-		<div class="bg-red-200 w-full h-32 my-8"></div>
+		<div class="bg-red-200 w-full h-52 my-8 overflow-hidden flex items-center rounded-lg">
+			<img class="w-full" src="@/assets/chiliconcarne.jpg" alt="Chili Con Carne">
+		</div>
 		<div class="flex gap-9">
 			<div class="w-4/12">
 				<h2 class="text-xl font-medium">Ingredienser</h2>
